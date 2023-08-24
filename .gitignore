@@ -1,4 +1,12 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
 
+# Vim temporary files
+.*.swp
+
+# Visual Studio generated files
+out/
+.vs/
+
 build/
+.clang-format
